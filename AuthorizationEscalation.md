@@ -1,7 +1,7 @@
 # INCIDENT REPORT: JA-16649-AdminAccess
 
 ## Executive Summary 
-Users can have varying roles that allow them to access different areas of a site. Having an Admin access level allows users to access confidential site information. 
+Users can have varying roles that allow them to access different areas of a site. Having an Admin access level allows users to access confidential site information.  Hackers will often attack an application by elevating their access rights. This report covers an ethical hacking exercise to test the vulnerability of the database regarding POST requests to modify administrative role privileges.  
 
 ## Methodology 
 - Docker

@@ -75,12 +75,15 @@ During a two-week sprint, my tasks were to analyze security breaches as well as 
 - Adware identification and removal
 
 ## Offensive Attack Reports
-- Authorization elevation
-- Access restricted Admin pages
-- Modify http get request to access other user accounts
+- [Authorization Escalation](https://github.com/serengetijade/Cyber_Security/blob/main/AuthorizationEscalation.md)
+- Access restricted admin pages
+- Modify HTTP GET request to access user accounts
 - XSS Attack - Cross Site Scripting
 - Null byte character injection
 - Access "obscured", but unsecured folders
 - CAPTCHA exploitation
 - Brute force attach to discover passwords
 - SQL injection to login under any credentials
+
+## Additional Sources and Credits
+- [OWASP](https://owasp.org/): The Open Worldwide Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software. The OWASP Juice Shop is an awareness, training, demonstration and exercise tool for security risks in modern web applications. 
