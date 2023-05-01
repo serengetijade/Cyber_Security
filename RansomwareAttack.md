@@ -1,6 +1,5 @@
 # Ransomware Attack
-
-## INCIDENT REPORT: JA-16627-RansomwareAttack
+<b>INCIDENT REPORT: JA-16627-RansomwareAttack </b>
 
 ## Executive Summary 
 Ransomware is a type of malware that encrypts user files until a fee is paid. Jigsaw is ransomware that uses the AES algorithm to encrypt various files stored on computers. Targeted files include .jpg, .docx, .mp3, .mp4, and many others.
@@ -25,7 +24,7 @@ Ransomware is a type of malware that encrypts user files until a fee is paid. Ji
 - Disc Cleanup: Clear temporary files
     - ~~Temporary Files~~
     - ~~Temporary Internet Files~~
-    
+
 ![Disk Cleanup](https://github.com/serengetijade/Cyber_Security/blob/main/img/Ransomware-DiskCleanup.jpg)
 
 - Control Panel: Uninstall suspicious programs
