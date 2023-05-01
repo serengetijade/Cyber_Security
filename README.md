@@ -1,11 +1,12 @@
 # Cyber Security
+This repository is to highlight work as part of a cyber security projects that implemented penetration testing and incident analysis. The included project excerpts demonstrate cyber security prinicples such as protecting databases and keeping the back end secure, developing secure software and apps, protecting user data, and identifying vulnerabilities in existing applications. 
+<br><div align="center">
 ![Virus Total](https://github.com/serengetijade/Cyber_Security/blob/main/img/VirusTotal.jpg)
 ![HybridAnalysis](https://github.com/serengetijade/Cyber_Security/blob/main/img/HybridAnalysis.jpg)
 <br> 
 ![KaliLinuxBadge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br>
-This repository is to highlight work as part of a cyber security projects that implemented penetration testing and incident analysis. The included project excerpts demonstrate cyber security prinicples such as protecting databases and keeping the back end secure, developing secure software and apps, protecting user data, and identifying vulnerabilities in existing applications. 
+</div>
 
 ## Skills
 - Security Auditing
