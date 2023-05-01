@@ -62,6 +62,8 @@ During a two-week sprint, my tasks were to analyze security breaches as well as 
 - Weekly code retrospectives
 - Discord for chat and troubleshooting
 
+![Azure Assignment](https://github.com/serengetijade/Cyber_Security/blob/main/img/Azure.jpg)
+
 ## Defensive Incident Reports
 - Malware identification: Find the Culprit
 - Ransomware Attack
