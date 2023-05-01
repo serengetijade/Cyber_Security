@@ -1,10 +1,16 @@
 # Cyber Security
-This repository is for cyber security projects such as penetration testing and incident reports. The included project excerpts demonstrate cyber security prinicples regarding protecting databases and keeping the back end secure, developing secure software and apps, protecting user data, and finding vulnerabilities in existing applications. 
+![Virus Total](https://github.com/serengetijade/Cyber_Security/blob/main/img/VirusTotal.jpg)
+![HybridAnalysis](https://github.com/serengetijade/Cyber_Security/blob/main/img/HybridAnalysis.jpg)
+<br> 
+![KaliLinuxBadge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br>
+This repository is to highlight work as part of a cyber security projects that implemented penetration testing and incident analysis. The included project excerpts demonstrate cyber security prinicples such as protecting databases and keeping the back end secure, developing secure software and apps, protecting user data, and identifying vulnerabilities in existing applications. 
 
 ## Skills
 - Security Auditing
-  - Penetration Testing
   - Attack Analysis
+  - Penetration Testing
 - Wireshark
 - Burp Suite
 - Virus Total
@@ -14,11 +20,16 @@ This repository is for cyber security projects such as penetration testing and i
 - Docker
 
 ### Security Auditing
+<i>Attack Analysis</i>
+<br>Real-world security breaches were analyzed to identify network access points, the type of malware used, and other attack details. PCAP files and security logs were examined using various softwares -discussed below- in order to figure out how hackers implemented the malware and what the malware was doing. 
+
+<i>Penetration Testing</i>
+<br>The [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) web application was used as a testing playground to exploit vulnerabilities most common in unsecure systems. Various techniques were applied, such as SQL injection, Cross Sight Scripting XSS, priviledge escalation, request interception, and more. Please see below for more specific information. 
 
 ### Wireshark
 WireShark is a network analysis tool that is especially useful for cyber security operations analysts. It is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.
 
-### Burp Suite
+### Burp Suite, by Portswigger
 As a cyber security professional, it is essential to be familiar with penetration and vulnerability testing software. One of the most popular available is Burp Suite. It was used for intercepting network traffic, modifying the HTTP request data sent to the web server, injecting payloads, and testing responses.
 
 ### Virus Total and Hybrid Analysis
@@ -27,8 +38,12 @@ As a cyber security professional, it is essential to be familiar with penetratio
 ### Virtual Box Virtual Environments
 VirtualBox is software for virtualizing the x86 computing architecture to run virtual environments. It allows for potentially malicious software to be explored in a contained, isolated environment without infecting the main host computer. 
 
+![KaliLinuxVirtualBox](https://github.com/serengetijade/Cyber_Security/blob/main/img/VirtualBox.jpg)
+
 ### Kali Linux 
-Kali Linux is an OS dedicated to ethical hacking and fiddling with networking utilities. It has a collection of security and forensics tools. It was deployed within Virtual Box to text for malware. Version: Linux 6.1.0-kali5-amd64.
+
+Kali Linux is an OS dedicated to ethical hacking and fiddling with networking utilities. It has a collection of security and forensics tools. It was deployed within Virtual Box to text for malware. 
+Version: Linux 6.1.0-kali5-amd64.
 
 ### Docker
 Docker is an open platform for developing, shipping, and running applications. It was utilized to deploy Kali Linux and other virtual environments. 
