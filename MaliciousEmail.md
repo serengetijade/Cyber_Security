@@ -38,7 +38,7 @@ Ethernet II, Src: , Dst: Broadcast (ff:ff:ff:ff:ff:ff)
 ### Indicators of compromise (IOCs) 
 Thunderbird flagged an email for malicious content. 
 
-![Malicious Email](![System Startup](https://github.com/serengetijade/Cyber_Security/blob/main/img/MaliciousEmail.jpg))
+![Malicious Email](https://github.com/serengetijade/Cyber_Security/blob/main/img/MaliciousEmail.jpg)
 
 ### Malicious HTTP traffic 
 IP address: 134.96.214.28
