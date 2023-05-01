@@ -25,6 +25,7 @@ Ransomware is a type of malware that encrypts user files until a fee is paid. Ji
 - Disc Cleanup: Clear temporary files
     - ~~Temporary Files~~
     - ~~Temporary Internet Files~~
+    
 ![Disk Cleanup](https://github.com/serengetijade/Cyber_Security/blob/main/img/Ransomware-DiskCleanup.jpg)
 
 - Control Panel: Uninstall suspicious programs
