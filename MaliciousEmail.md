@@ -30,8 +30,11 @@ The host computer was infected through a malicious email.
 
 ### Victim details 
 IP address: 10.3.66.103
+
 MAC address: Dell_2d:90:81 (00:24:e8:2d:90:81)
+
 Host name: STROUT-PC<20>
+
 User account name:
 Ethernet II, Src: , Dst: Broadcast (ff:ff:ff:ff:ff:ff)
 
