@@ -16,6 +16,7 @@ This repository is to highlight work as part of a cyber security projects that i
 - Burp Suite
 - Virus Total
 - Hybrid Analysis
+- Malwarebytes 
 - Virtual Box Virutal Environments
 - Kali Linux
 - Docker
@@ -36,6 +37,9 @@ As a cyber security professional, it is essential to be familiar with penetratio
 ### Virus Total and Hybrid Analysis
 [Virus Total](https://www.virustotal.com/) and [Hybrid Analysis](https://www.hybrid-analysis.com/) are two online scanners that analyzes files and URLs for viruses, worms, trojans and other kinds of malicious content. Hybrid Analysis is useful for older types of maleware. 
 
+### Malwarebytes
+Malwarebytes is an anti-malware software for Microsoft Windows, macOS, ChromeOS, Android, and iOS that finds and removes malware. 
+
 ### Virtual Box Virtual Environments
 VirtualBox is software for virtualizing the x86 computing architecture to run virtual environments. It allows for potentially malicious software to be explored in a contained, isolated environment without infecting the main host computer. 
 
@@ -43,7 +47,7 @@ VirtualBox is software for virtualizing the x86 computing architecture to run vi
 
 ### Kali Linux 
 
-Kali Linux is an OS dedicated to ethical hacking and fiddling with networking utilities. It has a collection of security and forensics tools. It was deployed within Virtual Box to text for malware. 
+Kali Linux is an OS dedicated to ethical hacking. It has a collection of security and forensics tools. It was deployed within Virtual Box to text for malware. 
 Version: Linux 6.1.0-kali5-amd64.
 
 ### Docker
@@ -59,5 +63,22 @@ During a two-week sprint, my tasks were to analyze security breaches as well as 
 - Discord for chat and troubleshooting
 
 ## Defensive Incident Reports
+- Malware identification: Find the Culprit
+- Ransomware Attack
+- Linux server log analysis
+- PCAP packet analysis
+- PCAP Exploitation Kit identification
+- PowerShell script analysis
+- Malware traffic 
+- Adware identification and removal
 
-## Offensive Incident Reports
+## Offensive Attack Reports
+- Authorization elevation
+- Access restricted Admin pages
+- Modify http get request to access other user accounts
+- XSS Attack - Cross Site Scripting
+- Null byte character injection
+- Access "obscured", but unsecured folders
+- CAPTCHA exploitation
+- Brute force attach to discover passwords
+- SQL injection to login under any credentials
