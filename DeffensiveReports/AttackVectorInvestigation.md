@@ -81,7 +81,7 @@ IP address: 193.23.181.155
 MAC address: Cisco-Li_09:2e:af (20:aa:4b:09:2e:af)
 
 ## Conclusion 
-The user’s computer was infected with the Zeus Trojan. The two primary goals of the Zeus trojan horse virus are to steal financial information and add machines to a botnet. At this time, the origination of the malicious call cannot be determined, however evidence indicates the malware was hidden inside a prior email or attachment that was not part of the provided PCAP files and the user's computer was activated as a bot. 
+The user’s computer was infected with the Zeus Trojan. The two primary goals of the Zeus trojan horse virus are to steal financial information and add machines to a botnet. The malware was downloaded from a GET request for an image file, config.jpeg, hosted on classicalbitu.com. At this time, the origination of the malicious call cannot be determined, however evidence indicates the malware was hidden inside a prior email or attachment that was not part of the provided PCAP files and the user's computer was activated as a bot. 
 
 Email attachments, jpeg images, and various documents can present an attack vector. Ways to protect your system include: 
 - Email scanners and other virus scanners.
