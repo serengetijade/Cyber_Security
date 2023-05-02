@@ -42,7 +42,7 @@ MAC address: Acer_56:9b:cf (00:01:24:56:9b:cf)
 
 Host Name: Juanita-Work-PC
 
-User account name: JUANITA-WORK-PC$S
+User account name: JUANITA-WORK-PC$
 
 User account name: momia.juanita 
 
