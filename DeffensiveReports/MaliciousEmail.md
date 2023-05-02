@@ -10,7 +10,7 @@ A popular phishing attack pattern is to impersonate a financial entity, such as 
 - Mozilla Thunderbird-  a free email application with added security filters. 
     - Download Thunderbird and extract the files. 
     - In the root CLI, enter command: sudo apt-get install thunderbird     
-        This will install Thunderbird with the package manager and then the app can be access from the Applications menu within Kali Linux
+        This will install Thunderbird with the package manager and then the app can be accessed from the Applications menu within Kali Linux
     - Import the infected email(s) and view the email source code
 - WireShark Version 4.0.3  
     Running on Linux 6.1.0-kali5-amd64, with 12th Gen Intel(R) Core(TM) i7-12700H
@@ -25,7 +25,7 @@ The host computer was infected through a malicious email.
 
 <i>Email details:</i>
 - Date and time of infection: Fri, 6 Nov 2015 20:24:50 UTC
-- From: "American Express Alerts" <AMEXPGNEUSCN0006006@verizon.net>S
+- From: "American Express Alerts" ~AMEXPGNEUSCN0006006@verizon.net
 - Subject: Important Information About Your Card Membership!
 
 ### Victim details 
@@ -35,8 +35,7 @@ MAC address: Dell_2d:90:81 (00:24:e8:2d:90:81)
 
 Host name: STROUT-PC<20>
 
-User account name:
-Ethernet II, Src: , Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+User account name: Broadcast
 
 ### Indicators of compromise (IOCs) 
 Thunderbird flagged an email for malicious content. 
@@ -46,7 +45,7 @@ Thunderbird flagged an email for malicious content.
 ### Malicious HTTP traffic 
 IP address: 134.96.214.28
 Host name: e-gf-a.htw-saarland.de
-Sent: Fri, 6 Nov 2015 19:47:06 -0000
+Sent: Fri, 6 Nov 2015 19:47:06 UTC
 
 ## Conclusion 
 Users should be trained to spot potentially fraudulent communications. Scanners can be installed to check emails, hardware, usb dives, and other network access points. Thunderbird is an open source, free, email scanner that can detect and protect against harmful content.
