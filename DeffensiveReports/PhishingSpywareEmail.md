@@ -37,9 +37,13 @@ The traffic patterns suggest the website h1.wensa.at was called while the user w
 
 ### Victim details 
 IP address: 10.18.20.97
-MAC address: Acer_56:9b:cf (00:01:24:56:9b:cf)’
+
+MAC address: Acer_56:9b:cf (00:01:24:56:9b:cf)
+
 Host Name: Juanita-Work-PC
+
 User account name: JUANITA-WORK-PC$S
+
 User account name: momia.juanita 
 
 ### Indicators of compromise (IOCs) 
@@ -51,8 +55,10 @@ The user accessed her email, then POST requests were made to h1.wensa.at. Shortl
 ![VirusTotal Details](https://github.com/serengetijade/Cyber_Security/blob/main/img/PhishingSpywareHTTP.jpg)
 
 ### Suspicious domains using HTTPS traffic 
-h1.wensa.at
+Host Name: h1.wensa.at
+
 IP address: 8.208.24.139
+
 MAC address: Dst: Cisco_93:a6:84 (00:07:50:93:a6:84)
 
 ## Conclusion 
