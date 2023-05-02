@@ -66,9 +66,9 @@ During a two-week sprint, my tasks were to analyze security breaches as well as 
 
 ## Defensive Incident Reports
 - Malware identification: Find the Culprit
-- [Ransomware Attack](https://github.com/serengetijade/Cyber_Security/blob/main/RansomwareAttack.md)
-- [Malicious Email](https://github.com/serengetijade/Cyber_Security/blob/main/MaliciousEmail.md)
-- [Linux server log analysis (Shell Injection)](https://github.com/serengetijade/Cyber_Security/blob/main/LinuxLogs-ShellInjection.md)
+- [Ransomware Attack](https://github.com/serengetijade/Cyber_Security/blob/main/DeffensiveReports/RansomwareAttack.md)
+- [Malicious Email](https://github.com/serengetijade/Cyber_Security/blob/main/DeffensiveReports/MaliciousEmail.md)
+- [Linux server log analysis (Shell Injection)](https://github.com/serengetijade/Cyber_Security/blob/main/DeffensiveReports/LinuxLogs-ShellInjection.md)
 - PCAP packet analysis
 - PCAP Exploitation Kit identification
 - PowerShell script analysis
@@ -76,7 +76,7 @@ During a two-week sprint, my tasks were to analyze security breaches as well as 
 - Adware identification and removal
 
 ## Offensive Attack Reports
-- [Authorization Escalation](https://github.com/serengetijade/Cyber_Security/blob/main/AuthorizationEscalation.md)
+- [Authorization Escalation](https://github.com/serengetijade/Cyber_Security/blob/main/OffensiveReports/AuthorizationEscalation.md)
 - Access restricted admin pages
 - Modify HTTP GET request to access user accounts
 - XSS Attack - Cross Site Scripting

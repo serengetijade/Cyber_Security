@@ -4,7 +4,7 @@
 ## Executive Summary 
 Hackers often impersonate legitimate entities in order to infect systems with malicious code. Phishing is a type of cyber attack that attempts to represent itself as a legitimate person or entity for the purpose of identity/credential theft. Phishing may be via email, phone call, direct message, or elsewise.
 
-A popular phishing attack pattern is to impersonate a financial entity, such as American express, and ask the user to validate their personal information, capturing it in the process. Or the attack may be to impersonate that same institution in order to get the user to click on and activate a harmful payload. 
+A popular phishing attack pattern is to impersonate a financial entity, such as American Express, and ask the user to validate their personal information, capturing it in the process. Or the attack may be to impersonate that same institution in order to get the user to click on and activate a harmful payload. 
 
 ## Methodology 
 - Mozilla Thunderbird-  a free email application with added security filters. 
