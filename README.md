@@ -70,7 +70,7 @@ During a two-week sprint, my tasks were to analyze security breaches as well as 
 - [Ransomware Attack](https://github.com/serengetijade/Cyber_Security/blob/main/DeffensiveReports/RansomwareAttack.md)
 - [Malicious Email](https://github.com/serengetijade/Cyber_Security/blob/main/DeffensiveReports/MaliciousEmail.md)
 - [Linux server log analysis (Shell Injection)](https://github.com/serengetijade/Cyber_Security/blob/main/DeffensiveReports/LinuxLogs-ShellInjection.md)
-- PCAP packet analysis
+- [Network Access Investigation - PCAP packet analysis](https://github.com/serengetijade/Cyber_Security/blob/main/DeffensiveReports/NetworkAccessInvestigation.md)
 - PCAP Exploitation Kit identification
 - PowerShell script analysis
 - Malware traffic 
