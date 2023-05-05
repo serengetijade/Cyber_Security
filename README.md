@@ -57,7 +57,7 @@ Docker is an open platform for developing, shipping, and running applications. I
 During a two-week sprint, my tasks were to analyze security breaches as well as test applications for vulnerabilities. I was responsible for finding malware and how it was introduced to the network, as well as performing ethical hacking techniques to identify security weaknesses in an online retail application. The sprint used real-world security exploitations and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) web application. Specific tasks were assigned by the sprint leader, to be completed within a certain timeframe and meeting set parameters.
 
 - Sprint duration: 2 weeks
-- 23 stories completed
+- 20 stories completed
 - Daily stand-ups
 - Weekly code retrospectives
 - Discord for chat and troubleshooting
